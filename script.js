@@ -1,4 +1,3 @@
-//your code here
 function majorityElement(nums) {
     let count = 0;
     let candidate = null;
@@ -17,3 +16,4 @@ function majorityElement(nums) {
 const input = [2, 1, 2];
 const result = majorityElement(input);
 alert(result); // Output should be 2
+
